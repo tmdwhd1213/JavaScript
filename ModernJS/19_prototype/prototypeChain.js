@@ -36,3 +36,4 @@ console.log(me.foo);    // undefined
 // 다시 말해, JS 엔진은 함수의 중첩 관계로 이루어진 스코프의 계층적 구조에서 식별자를 검색한다.
 // 따라서 스코프 체인은 식별자 검색을 위한 메커니즘이라고 할 수 있다.
 me.hasOwnProperty('name');
+
